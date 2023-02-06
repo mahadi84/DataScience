@@ -1,3 +1,7 @@
+
+
+
+
 01. Series vs DataFrame?
 Answer:
 Series: Single Column
@@ -64,3 +68,12 @@ inner_Join.groupby(['Br Code', 'Branch'])[[ 'WEB']].max()
 
 CONCATINATION FUNCTION: concat()
 which can be used to combine DataFrames together.  
+
+
+
+
+
+
+
+
+
